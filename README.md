@@ -80,14 +80,6 @@ npm install
 npm run dev
 ```
 
-ou
-
-```bash
-npm start
-```
-
-(dependendo da configuração do projeto)
-
 ---
 
 ## 📂 Estrutura do projeto
